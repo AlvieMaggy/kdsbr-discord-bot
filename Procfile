@@ -1,1 +1,1 @@
-worker: node bot.js KDSBR Bot
+worker: node kdsbr-bot.js 
